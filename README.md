@@ -34,11 +34,6 @@ cd Receipt-Rocket
 
 There are several potential avenues for future development and improvement:
 
-- **Enhanced Model Performance:** Continuously optimize the models for better accuracy and efficiency.
-- **Integration of Deep Learning:** Explore the integration of deep learning techniques to further improve recognition accuracy.
-- **Real-Time Processing:** Implement real-time processing capabilities for quicker response times.
-- **User Interface Enhancement:** Develop a user-friendly interface for easier interaction and visualization of results.
-- **Data Augmentation and Expansion:** Increase the dataset size and diversity through data augmentation techniques.
-- **Deployment and Scalability:** Prepare the model for deployment in scalable environments, considering cloud solutions for flexibility.
+- **Accurate Text Recognition:** Increase the accuracy of text recognition from receipts usint Tesseract library.
 
 These areas represent opportunities to advance the current implementation and enhance its practical utility.
