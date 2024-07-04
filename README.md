@@ -1,6 +1,5 @@
 # Receipt Rocket
 
-![Receipt Rocket]
 
 Effortlessly extract detailed information from multi-item receipts using advanced computer vision and image processing. No machine learning or deep learning needed—just pure image processing magic!
 
