@@ -28,6 +28,7 @@ Clone the repository and install the required dependencies:
 ```bash
 git clone https://github.com/rakesh018/Receipt-Rocket.git
 cd Receipt-Rocket
+```
 
 ## Future Work
 
