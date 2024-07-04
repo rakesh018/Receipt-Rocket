@@ -11,7 +11,7 @@ Effortlessly extract detailed information from multi-item receipts using advance
 - **Pure Image Processing**: Leveraging the power of computer vision without the complexity of ML/DL models.
 
 ## Important Functions
-* Hi
+* `approximate_counter(counter)` : This function takes a contour as input and approximates it to a polygon with fewer vertices based on the specified precision. The cv2.approxPolyDP function approximates the contour to another shape with fewer vertices. The second argument, 0.032 * peri, is the approximation accuracy parameter, which specifies the maximum distance between the original contour and its approximation.
 
 ## Installation
 
