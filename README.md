@@ -3,6 +3,13 @@
 
 Effortlessly extract detailed information from multi-item receipts using advanced computer vision and image processing. No machine learning or deep learning needed—just pure image processing magic!
 
+## Architecture
+
+![Receipt Rocket Architecture](workflow.png)
+
+This diagram illustrates the overall architecture of Receipt Rocket, showcasing the flow of receipt extraction and processing through various components.
+
+
 ## Features
 
 - **Efficient Segmentation**: Isolates and identifies receipts from multi object images
