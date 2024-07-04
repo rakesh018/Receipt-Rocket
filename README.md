@@ -10,6 +10,9 @@ Effortlessly extract detailed information from multi-item receipts using advance
 - **Text Extraction** : Leveraging Tesseract to extract text using regular expressions.
 - **Pure Image Processing**: Leveraging the power of computer vision without the complexity of ML/DL models.
 
+## Important Functions
+* Hi
+
 ## Installation
 
 Clone the repository and install the required dependencies:
