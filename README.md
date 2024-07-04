@@ -5,8 +5,9 @@ Effortlessly extract detailed information from multi-item receipts using advance
 
 ## Features
 
-- **Efficient Segmentation**: Isolates and identifies multiple objects on receipts.
+- **Efficient Segmentation**: Isolates and identifies receipts from multi object images
 - **Perspective Restoration**: Automatically corrects the perspective of scanned receipts.
+- **Text Extraction** : Leveraging Tesseract to extract text using regular expressions.
 - **Pure Image Processing**: Leveraging the power of computer vision without the complexity of ML/DL models.
 
 ## Installation
