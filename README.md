@@ -7,7 +7,7 @@ Effortlessly extract detailed information from multi-item receipts using advance
 
 ![Receipt Rocket Architecture](workflow.png)
 
-This diagram illustrates the overall architecture of Receipt Rocket, showcasing the flow of receipt extraction and processing through various components.
+This diagram illustrates the overall architecture of Receipt Rocket, showcasing the flow of receipt extraction and processing through various components. Only text extraction by Tesseract uses Deep Learning Techniques.
 
 
 ## Features
@@ -41,6 +41,6 @@ cd Receipt-Rocket
 
 There are several potential avenues for future development and improvement:
 
-- **Accurate Text Recognition:** Increase the accuracy of text recognition from receipts usint Tesseract library.
+- **Accurate Text Recognition:** Increase the accuracy of text recognition from receipts by utilizing mixture of OCR techniques such as OCR.
 
 These areas represent opportunities to advance the current implementation and enhance its practical utility.
